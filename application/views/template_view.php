@@ -1,4 +1,4 @@
-]<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
    <head>
 	  <meta charset="utf-8">
@@ -10,7 +10,6 @@
     <script src="js/modernizr.custom.63321.js"></script>
 	  <link href="css/jumbotron-narrow.css" rel="stylesheet">
 	  <link href="css/bootstrap.css" rel="stylesheet">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
    </head>
      <body>
        <div class="container">
@@ -20,7 +19,7 @@
              <li><a href="main">Главная</a></li>
              <li><a href="news">Новости</a></li>
              <li><a href="calendar">Календарь</a></li>
-             <li><a href="calendar">Журнал</a></li>
+             <li><a href="book">Журнал</a></li>
              <li><a href="feedback">Обратная связь</a></li>
              <li class="navbar-right"><a href="login" data-toggle="modal" data-target="#myModal">Вход</a></li>
            </ul>
